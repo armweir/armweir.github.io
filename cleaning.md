@@ -6,16 +6,6 @@
 
 Digital Media/Computer Science graduate from the North of Scotland.
 
-## Education
-
-- **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
-
-	Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
-
-- **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
-
-	Studied abroad for 2 semesters, with an internship in semester 2.
-
 ## Relevant Experience
 
 - **Scottish Event Campus, Housekeeper (2024)**
@@ -30,8 +20,6 @@ Digital Media/Computer Science graduate from the North of Scotland.
 ## Other Experience
 
 - Connecting Carers, Graduate Technology Officer (2025--2026)
-- Scottish Event Campus, Housekeeper (2024)
-- Tinderbox, Kitchen Assistant (2023--24)
 - AISUS Offshore, Junior Data Scientist (2023)
 - Inverawe Smokehouses, Seasonal Worker (2022)
 - Robert Gordon University, Animator (2022)
@@ -43,6 +31,16 @@ Digital Media/Computer Science graduate from the North of Scotland.
 - Glenmorangie Distillery, Tour Guide (2017)
 - ASDA, Chilled Colleague (2015--16)
 - R.S. McColls, Paperboy (2012--15)
+
+## Education
+
+- **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
+
+  Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
+
+- **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
+
+  Studied abroad for 2 semesters, with an internship in semester 2.
 
 ## Awards
 
@@ -64,4 +62,5 @@ Digital Media/Computer Science graduate from the North of Scotland.
 - Former member of university societies: Mountaineering, Ice Skating, Creative Writing
 - Athlete and cyclist
 - Bass guitarist for band Orovada
+- Vegan
 - Clean UK driving license

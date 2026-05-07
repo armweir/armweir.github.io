@@ -6,17 +6,7 @@
 
 Digital Media/Computer Science graduate from the North of Scotland.
 
-## Education
-
-- **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
-
-	Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
-
-- **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
-
-	Studied abroad for 2 semesters, with an internship in semester 2.
-
-## Relevant Experience
+## Experience
 
 - **Tinderbox, Kitchen Assistant (2023--24)**
 
@@ -41,6 +31,16 @@ Digital Media/Computer Science graduate from the North of Scotland.
 - ASDA, Chilled Colleague (2015--16)
 - R.S. McColls, Paperboy (2012--15)
 
+## Education
+
+- **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
+
+  Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
+
+- **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
+
+  Studied abroad for 2 semesters, with an internship in semester 2.
+
 ## Awards
 
 - David Davidson Memorial Award for Excellence in Computer Science (2022)
@@ -58,7 +58,7 @@ Digital Media/Computer Science graduate from the North of Scotland.
 
 ## Other Info
 
-- Former member of university societies: Mountaineering, Ice Skating, Creative Writing
+- Former member of Mountaineering, Ice Skating, and Creative Writing university societies
 - Marathon runner and cyclist
 - Bass guitarist for band Orovada
 - Vegan

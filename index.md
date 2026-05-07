@@ -4,7 +4,6 @@
 
 # Adam Weir
 
-- [IT](it.md)
-- [Hospitality](hospitality.md)
 - [Cleaning](cleaning.md)
-- [Care](care.md)
+- - [Hospitality](hospitality.md)
+- [IT](it.md)
