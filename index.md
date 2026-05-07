@@ -5,5 +5,5 @@
 # Adam Weir
 
 - [Cleaning](cleaning.md)
-- - [Hospitality](hospitality.md)
+- [Hospitality](hospitality.md)
 - [IT](it.md)
