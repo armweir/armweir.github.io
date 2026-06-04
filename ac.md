@@ -31,7 +31,7 @@ Computer Science graduate from the North of Scotland.
 
 ## Education
 
-- **University of Strathclyde, MSc Advanced Computer Science (2023-2024)**
+- **University of Strathclyde, MSc Advanced Artificial Intelligence (2023-2024)**
 
   Studied for 6 months.
 
