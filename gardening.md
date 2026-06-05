@@ -6,9 +6,13 @@ Computer Science graduate from the North of Scotland.
 
 ## Relevant Experience
 
+- **Food Collection Volunteer, Goodies (2026--)**
+
+    Transport surplus food via cargo bike from Edinburgh supermarkets to the Cranston Street food bank.
+
 - **WWOOFer/Housesitter (2023--2024)**
 
-  Cared for house, cat, brood of chickens, and various fruits, vegetables and herbs in greenhouses, polytunnels and box frames. Helped plant seedlings. Mowed. Dismantled old compost heap.
+    Cared for house, cat, brood of chickens, and various fruits, vegetables and herbs in greenhouses, polytunnels and box frames. Helped plant seedlings. Mowed. Dismantled old compost heap.
 
 ## Other Experience
 
@@ -31,15 +35,15 @@ Computer Science graduate from the North of Scotland.
 
 - **University of Strathclyde, MSc Advanced Artificial Intelligence (2023-2024)**
 
-  Studied for 6 months.
+    Studied for 6 months.
 
 - **Robert Gordon University, BSc (Hons) Digital Media/Computer Science, 1:1 (2017--2022)**
 
-  Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
+    Graduated with First-Class Honours, earning the David Davidson Award for Excellence in Computer Science.
 
 - **Erasmus Brussels University of Applied Sciences and Arts, Bachelor Multimedia & Creative Technology (2019--20)**
 
-  Studied abroad for 2 semesters, with an internship in semester 2.
+    Studied abroad for 2 semesters, with an internship in semester 2.
 
 ## Awards
 
