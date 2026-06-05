@@ -8,9 +8,9 @@ Computer Science graduate from the North of Scotland.
 
 ## Relevant Experience
 
-- **Robert Gordon University, Research Assistant (2022)**
+- **WWOOFer/Housesitter (2023--2024)**
 
-  Helped with research for a bovine disease-detecting system that used computer vision techniques with visual and thermal imagery.
+  Cared for house, cat, brood of chickens, and various fruits, vegetables and herbs in greenhouses, polytunnels and box frames. Helped plant seedlings. Mowed. Dismantled old compost heap.
 
 ## Other Experience
 
@@ -20,6 +20,7 @@ Computer Science graduate from the North of Scotland.
 - AISUS Offshore, Junior Data Scientist (2023)
 - Inverawe Smokehouses, Seasonal Worker (2022)
 - Robert Gordon University, Animator (2022)
+- Robert Gordon University, Research Assistant (2022)
 - Fennex, IT Specialist (2021--22)
 - Robert Gordon University, Resident Assistant (2020--2021)
 - Erasmus Brussels University of Applied Sciences and Arts, Marketing Intern (2020)
