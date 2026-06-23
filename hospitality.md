@@ -1,6 +1,6 @@
 [a.weir3@rgu.ac.uk](mailto:a.weir3@rgu.ac.uk)
 
-[+44 7547 563702](tel:+447547563702)
+[07547 563 702](tel:+447547563702)
 
 [40 (4F) St Mary's Street, Old Town, Edinburgh EH1 1SX](maps:55.9498183,-3.1860559)
 
