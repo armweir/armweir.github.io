@@ -1,23 +1,24 @@
 [a.weir3@rgu.ac.uk](mailto:a.weir3@rgu.ac.uk)
 
-[+44 7547 563702](tel:+447547563702)
+[07547 563 702](tel:+447547563702)
 
-# Adam Weir
+[40 (4F) St Mary's Street, Old Town, Edinburgh, EH1 1SX](geo:55.94977875,-3.18347906?q=40+St+Mary%27s+Street,Old+Town,Edinburgh,EH1+1SX,UK)
 
-Digital Media/Computer Science graduate from the North of Scotland.
+Digital Media/Computer Science graduate from Scotland.
 
 ## Relevant Experience
 
 - **Connecting Carers, Graduate Technology Officer (2025--2026)**
 
-	Improve the organisation's digital maturity by automating business processes, provide staff training, and assist with a graphic design project.
+	Improved the organisation's digital maturity by automating business processes, provided staff training, and helped with a graphic design project.
 
 - **Fennex, IT Specialist (2021--22)**
 
-	Develop web apps for major clients in the North Sea energy industry and wrangle data.
+	Developed web apps for major clients in the North Sea energy industry, and wrangled data.
 
 ## Other Experience
 
+- Volunteer food collector/sorter, Goodies (2026--)
 - Scottish Event Campus, Housekeeper (2024)
 - Tinderbox, Kitchen Assistant (2023--24)
 - AISUS Offshore, Junior Data Scientist (2023)
@@ -61,5 +62,4 @@ Digital Media/Computer Science graduate from the North of Scotland.
 - Former member of university societies: Mountaineering, Ice Skating, Creative Writing
 - Athlete and cyclist
 - Bass guitarist for band Orovada
-- Vegan
 - Clean UK driving license
