@@ -2,7 +2,7 @@
 
 [+44 7547 563702](tel:+447547563702)
 
-[40 (4F) St Mary's Street, Old Town, Edinburgh EH1 1SX](geo:55.9498183,-3.1860559)
+[40 (4F) St Mary's Street, Old Town, Edinburgh EH1 1SX](maps:55.9498183,-3.1860559)
 
 Digital Media/Computer Science graduate from the North of Scotland.
 
