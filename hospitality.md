@@ -4,17 +4,17 @@
 
 [40 (4F) St Mary's Street, Old Town, Edinburgh EH1 1SX](geo:55.94977875,-3.18347906?q=40+St+Mary%27s+Street,Old+Town,Edinburgh,EH1+1SX,UK)
 
-Digital Media/Computer Science graduate from the North of Scotland.
+Digital Media/Computer Science graduate from Scotland.
 
 ## Experience
 
 - **Tinderbox, Kitchen Assistant (2023--24)**
 
-  Prepare food at the central kitchen for Glasgow Tinderbox branches, and keep the kitchen and equipment clean.
+  Prepared food at the central kitchen for Glasgow Tinderbox branches, and kept the kitchen and equipment clean.
 
 - **Carnegie Club at Skibo Castle, Kitchen Assistant (2018--19)**
 
-  Keep the kitchen and equipment clean, and drive food and personnel around the Skibo estate.
+  Kept the kitchen and equipment clean, and drove food and personnel around the Skibo estate.
 
 ## Other Experience
 
